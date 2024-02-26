@@ -81,7 +81,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/prati.karki.605"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/pratikshyaaa22/?hl=en"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://www.linkedin.com/in/pratikshya-karki22/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/pratikshya-karki22/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
