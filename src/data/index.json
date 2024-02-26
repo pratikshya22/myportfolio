@@ -1,0 +1,44 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Investigating Netflix Movies",
+      "description": "My friends believe that the average duration of movies has been declining.Using my friends initial research,I have delved into the Netflix data to see if I can determine whether movie lengths are actually getting shorter and have explained some of the contributing factors, if any.",
+      "link": "View In Datacamp Workspace"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Explaining NYC Public School Test Result Scores",
+      "description": "Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills.These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.I had been tasked with answering three key questions about New York City (NYC) public school SAT performance.",
+      "link": "View In Datacamp Workspace"
+    }
+  ],
+  "Education": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Surya Secondry Bording School",
+      "author_designation": "Khandbari, Sankhuwasabha"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "The Times International College",
+      "author_designation": "Dillibzar, Kathmandu"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Sunway College",
+      "author_designation": "Maitidevi, Kathmandu"
+    }
+  ]
+}
